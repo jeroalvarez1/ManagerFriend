@@ -1,0 +1,7 @@
+{
+  "name": "ManagerFriend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
